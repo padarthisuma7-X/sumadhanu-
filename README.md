@@ -16,3 +16,4 @@ This repository contains a static portfolio website built with Tailwind CSS and 
 ## Notes
 - The Tailwind CDN is used for quick prototyping. For production, switch to a proper Tailwind build to remove unused CSS.
 - Icons use Font Awesome CDN.
+suma
